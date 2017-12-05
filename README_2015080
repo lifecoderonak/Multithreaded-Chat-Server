@@ -1,0 +1,11 @@
+This is my implementation of Multithreaded Chat Client Server in Java
+
+First run Server_2015080.java file and then create instances of Client_2015080.java file. 
+
+Example of running code :-
+
+For Sending only to Client X execute Client X : Message
+For Sending to All Connected Clients execute All : Message
+For Sending to Client X,Y only execute Client X,Y : Message
+For getting connected Users List, execute Server : List All
+For any invalid connected user, the server throws an error that Client Not Connected or does not exist 
